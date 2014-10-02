@@ -1,2 +1,4 @@
 CLASS
 =====
+
+viva la vida!
