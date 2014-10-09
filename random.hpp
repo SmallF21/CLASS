@@ -4,7 +4,7 @@
 
 class Generator{
 private:
-  static long double const m=pow(2.,32.);
+	long double m=pow(2.,32.);
   static const int  a = 1664525;
   static const int  c =1013904223;
   int r;
